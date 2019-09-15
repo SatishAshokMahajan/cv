@@ -1,0 +1,27 @@
+.skills {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  &__header {
+    font-size: 24px;
+    font-weight: 700;
+  }
+  &__underline {
+    border-bottom: 1px solid black;
+  }
+  &__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 0px;
+    &__column {
+      &__header {
+        font-size: 16px;
+        font-weight: 700;
+      }
+      &__name {
+        font-size: 14px;
+      }
+    }
+  }
+}

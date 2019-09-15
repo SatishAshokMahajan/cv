@@ -1,6 +1,8 @@
 # cv
 CV/Resume of Satish Ranjana-Ashok Mahajan
 
+followed template: https://www.behance.net/gallery/42196963/SIMPLE-RESUME-TEMPLATE-FREE
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

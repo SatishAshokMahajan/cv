@@ -1,0 +1,20 @@
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 50px;
+  &__header {
+    font-weight: 700;
+    font-size: 24px;
+    align-self: flex-start;
+  }
+  &__row {
+    display: flex;
+    justify-content: space-between;
+    &__label {
+      align-self: flex-start;
+    }
+    &__value {
+      align-self: flex-end;
+    }
+  }
+}
